@@ -61,15 +61,15 @@ header {
     font-weight: bold;
 }
 
-.login-button {
+.logo-button {
     position: absolute;
     right: 20px;
     top: 10px;
 }
 
-.login-button a {
+.logo-button a {
     background-color: #000;
-    color: #fff;
+    color: #ffdb0e;
     padding: 5px 15px;
     border-radius: 20px;
     text-decoration: none;
@@ -86,7 +86,7 @@ main {
     padding: 150px 20px 20px 20px;
     border: solid #ffdb0e;
     background: #000000;
-    height: 37vh;
+    height: 44vh;
     border-radius: 30px;
     box-shadow: 0px 4px 4px #ffdb0e46;
     color: #f5ffff;
@@ -97,9 +97,9 @@ main {
 
 .card {
     position: absolute;
-    width: 200px;
-    height: 250px;
-    top: 10px;
+    width: 230px;
+    height: 246px;
+    top: 14px;
     right: 12px;
     border-radius: 6px;
     border-top-right-radius: 23px;
@@ -156,7 +156,7 @@ main {
     top: 12px;
     left: 13px;
     width: 70%;
-    height: 61%;
+    height: 246px;
     border: solid;
     border-radius: 9px;
     border-top-left-radius: 18px;
@@ -197,7 +197,7 @@ main {
         flex: 1;
         top: 211px;
         right: 12px;
-        width: 92%;
+        width: 93%;
         height: 43%;
         border: solid;
         border-radius: 5px;
